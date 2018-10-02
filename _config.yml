@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Katazana
+email:             zulfanlife@gmail.com
+description:       Tempat Download Aplikasi
+author:            Blogger Indonesia
 baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+url:               "http://katazana.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  Tidak Ada
+github_username:   ZulfanLife
+facebook_username: Tidak Ada
 
 # Build settings
 markdown:          kramdown
